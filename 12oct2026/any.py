@@ -1,2 +1,2 @@
-a=any([10,false,5])
+a=any([10,5])
 print(a)
